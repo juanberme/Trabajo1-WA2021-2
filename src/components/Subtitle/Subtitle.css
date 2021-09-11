@@ -1,0 +1,23 @@
+.subtitle{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+.subtitle__image{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+
+.subtitle__similar{
+    color: #9a9a9a;
+    margin: 5px;
+    font-size: 13px;
+}
+
+.subtitle__recommended{
+    color: #ffffff;
+    margin: 5px;
+    font-size: 20px;
+}

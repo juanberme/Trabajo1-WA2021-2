@@ -1,0 +1,24 @@
+.Mix{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Mix__image{
+    width: 200px;
+    height: 200px;
+}
+
+.Mix__info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Mix__title{
+    color: #ffffff;
+}
+
+.Mix__description{
+    color: #ffffff;
+}

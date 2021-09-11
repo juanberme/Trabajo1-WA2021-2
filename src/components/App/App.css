@@ -1,0 +1,21 @@
+*{
+  background: #242424;
+}
+
+.App__content{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-bottom: 100px;
+}
+
+.App__nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.Recommeneded{
+  margin: 40px 20px;
+}

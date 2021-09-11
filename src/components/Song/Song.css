@@ -1,0 +1,25 @@
+.Song{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Song__image{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.Song__info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Song__title{
+    color: #ffffff;
+}
+
+.Song__subscribers{
+    color: #ffffff;
+}

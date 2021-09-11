@@ -1,0 +1,24 @@
+.Singer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Singer__image{
+    width: 200px;
+    height: 200px;
+}
+
+.Singer__info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Singer__title{
+    color: #ffffff;
+}
+
+.Singer__subscribers{
+    color: #ffffff;
+}
